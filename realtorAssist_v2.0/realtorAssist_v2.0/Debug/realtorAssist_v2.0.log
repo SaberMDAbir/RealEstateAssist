@@ -1,0 +1,4 @@
+﻿  realtorAssist_v2.0.cpp
+c:\users\abirc\source\repos\realtorassist_v2.0\realtorassist_v2.0\realtorassist_v2.0.cpp(65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\abirc\source\repos\realtorassist_v2.0\realtorassist_v2.0\realtorassist_v2.0.cpp(101): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  realtorAssist_v2.0.vcxproj -> C:\Users\abirc\source\repos\realtorAssist_v2.0\Debug\realtorAssist_v2.0.exe
